@@ -1,0 +1,5 @@
+.vscode/
+.terraform
+venv/
+*.out
+*.tfstate
